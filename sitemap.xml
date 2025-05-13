@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://ko.komayo.page/</loc>
     <lastmod>2023-06-26</lastmod>
+    <image:image>
+      <image:loc>https://ko.komayo.page/img/beautiful-woman-kimono-night-alley-lanterns-full-moon-sketch-art,w_1024.webp</image:loc>
+      <image:title>등불이 켜진 밤거리에서 기모노 입은 아름다운 여인의 스케치화, 보름달 아래 서 있는 모습</image:title>
+      <image:caption>등불이 켜진 밤거리에서 기모노 입은 아름다운 여인의 스케치화, 보름달 아래 서 있는 모습</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ko.komayo.page/favicon/favicon.svg</image:loc>
+      <image:title>마요</image:title>
+    </image:image>
   </url>
 </urlset>
